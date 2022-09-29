@@ -57,7 +57,7 @@ We capture the details of our incidents to ensure we find the root cause and tak
 
 ## Lessons Learned
 
-What did we learn from this incident?  How did it go well, what could have gone better and where did luck play a role?  Going through this exercise can help identify action items.  
+*What did we learn from this incident?  How did it go well, what could have gone better and where did luck play a role?  Going through this exercise can help identify action items.*
 
 ### What went well
 
@@ -85,8 +85,11 @@ What did we learn from this incident?  How did it go well, what could have gone
 *Priority*
 
 *- P0: High risk of unmitigated recurrence of the incident if this is not resolved.*
+
 *- P1: Medium risk of unmitigated recurrence of the incident if this is not resolved.*
+
 *- P2: Low risk of unmitigated recurrence of the incident if this is not resolved.*
+
 *- P3: Trivial risk of unmitigated recurrence of the incident if this is not resolved.*
 
 *[For definitions see this link](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/3eeb4c1d9073ca5910e49f5252cb3cf648487ac2.pdf)*
