@@ -1,7 +1,6 @@
 # Product Incident Report Template
 
 Use this template to capture details about an incident, and share back potential solutions and prevention tasks.
-
 We capture the details of our incidents to ensure we find the root cause and take actions to prevent it from happening in the future.
 
 **Team:**
@@ -12,7 +11,7 @@ We capture the details of our incidents to ensure we find the root cause and tak
 
 **Facilitators**
 
-**Status:** *in progress, open, ready to be reviewed, reviewed, closed *
+**Status:** *in progress, open, ready to be reviewed, reviewed, closed*
 
 ## Summary
 
@@ -20,7 +19,7 @@ We capture the details of our incidents to ensure we find the root cause and tak
 
 ## Impact
 
-*Include impact to all potential different groups. *
+*Include impact to all potential different groups.*
 
 *% or # of users impacted; in what way; for how long Number of staff needed to resolve the issues; how long Any $ impacts*
 
@@ -40,7 +39,7 @@ We capture the details of our incidents to ensure we find the root cause and tak
 
 ## Trigger:
 
-*Who/what called the incident and how was it called? (incident called by automated system, etc…)? *
+*Who/what called the incident and how was it called? (incident called by automated system, etc…)?*
 
 ## Detection:
 
@@ -85,13 +84,10 @@ What did we learn from this incident?  How did it go well, what could have gone
 
 *Priority*
 
-  *◆ P0: High risk of unmitigated recurrence of the incident if this is not resolved.*
-
-  *◆ P1: Medium risk of unmitigated recurrence of the incident if this is not resolved.*
-
-  *◆ P2: Low risk of unmitigated recurrence of the incident if this is not resolved.*
-
-  *◆ P3: Trivial risk of unmitigated recurrence of the incident if this is not resolved.*
+*- P0: High risk of unmitigated recurrence of the incident if this is not resolved.*
+*- P1: Medium risk of unmitigated recurrence of the incident if this is not resolved.*
+*- P2: Low risk of unmitigated recurrence of the incident if this is not resolved.*
+*- P3: Trivial risk of unmitigated recurrence of the incident if this is not resolved.*
 
 *[For definitions see this link](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/3eeb4c1d9073ca5910e49f5252cb3cf648487ac2.pdf)*
 
