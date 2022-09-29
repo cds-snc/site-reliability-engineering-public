@@ -25,8 +25,11 @@ We capture the details of our incidents to ensure we find the root cause and tak
 *% or # of users impacted; in what way; for how long Number of staff needed to resolve the issues; how long Any $ impacts*
 
 • End-users: 
+
 • CDS Staff: 
+
 • Other government department(s): 
+
 • Other: 
 
 ## Detailed Timeline 
