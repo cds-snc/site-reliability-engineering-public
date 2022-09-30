@@ -98,7 +98,7 @@ Ce rapport nous permet de trouver la cause de l’incident et de mettre en place
 
 *- P3 : Risque négligeable de récurrence non mitigée de l’incident si celui-ci n’est pas résolu.*
 
-*[Consulter ce lien](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/3eeb4c1d9073ca5910e49f5252cb3cf648487ac2.pdf) pour connaître les définitions*
+*[Consulter ce lien pour connaître les définitions](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/3eeb4c1d9073ca5910e49f5252cb3cf648487ac2.pdf)*
 
 
 |Mesure à prendre|Type|Responsable|# de problème|Niveau de priorité|Complet|
