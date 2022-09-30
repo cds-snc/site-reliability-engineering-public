@@ -105,7 +105,12 @@ Ce rapport nous permet de trouver la cause de l’incident et de mettre en place
 |-|-|-|-|-|-|
 |Examiner en détail les causes profondes de cet incident afin de créer un rapport d’incident exhaustif et de définir les mesures à prendre.| Examiner| | | P0|
 Mettre en œuvre des mesures immédiates pour résoudre [le problème].| Atténuer| | | P0
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+ | | | | | |
+ | | | | | |
+ | | | | | |
+ | | | | | |
+ | | | | | |
+ | | | | | |
+ | | | | | |
+ | | | | | |
+ | | | | | |
