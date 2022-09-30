@@ -23,13 +23,13 @@ We capture the details of our incidents to ensure we find the root cause and tak
 
 *% or # of users impacted; in what way; for how long Number of staff needed to resolve the issues; how long Any $ impacts*
 
-• End-users: 
+- End-users: 
 
-• CDS Staff: 
+- CDS Staff: 
 
-• Other government department(s): 
+- Other government department(s): 
 
-• Other: 
+- Other: 
 
 ## Detailed Timeline 
 
@@ -98,3 +98,7 @@ We capture the details of our incidents to ensure we find the root cause and tak
 |-|-|-|-|-|-|
 Investigate in more detail the root causes of this incident to create a robust incident report and action items.| Investigate| | |P0|
 Implement immediate actions to address [the issue].|Mitigate| | | P0
+ | | | | | |
+ | | | | | |
+ | | | | | |
+ | | | | | |
