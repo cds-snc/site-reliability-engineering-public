@@ -61,7 +61,7 @@ Ce rapport nous permet de trouver la cause de l’incident et de mettre en place
 
 ## Leçons apprises
 
-*Qu’avons-nous appris de cet incident?  Qu’est-ce qui a fonctionné? Qu’est-ce que nous aurions pu faire mieux? Quel rôle a joué le hasard?  Cet exercice peut aider à définir les mesures à prendre.*
+*Qu’avons-nous appris de cet incident? Qu’est-ce qui a fonctionné? Qu’est-ce que nous aurions pu faire mieux? Quel rôle a joué le hasard? Cet exercice peut aider à définir les mesures à prendre.*
 
 ### Ce qui a fonctionné.
 
@@ -105,12 +105,4 @@ Ce rapport nous permet de trouver la cause de l’incident et de mettre en place
 |-|-|-|-|-|-|
 |Examiner en détail les causes profondes de cet incident afin de créer un rapport d’incident exhaustif et de définir les mesures à prendre.| Examiner| | | P0|
 Mettre en œuvre des mesures immédiates pour résoudre [le problème].| Atténuer| | | P0
- | | | | | |
- | | | | | |
- | | | | | |
- | | | | | |
- | | | | | |
- | | | | | |
- | | | | | |
- | | | | | |
  | | | | | |
