@@ -21,17 +21,17 @@ We capture the details of our incidents to ensure we find the root cause and tak
 
 *Include impact to all potential different groups.*
 
-*% or # of users impacted; in what way; for how long Number of staff needed to resolve the issues; how long Any $ impacts*
+*% or # of users impacted; in what way; for how long; number of staff needed to resolve the issues; how long; any $ impacts*
 
-- End-users: 
+- End-users:
 
-- CDS Staff: 
+- CDS Staff:
 
-- Other government department(s): 
+- Other government department(s):
 
-- Other: 
+- Other:
 
-## Detailed Timeline 
+## Detailed Timeline
 
 *Be as specific as possible. When did we first learn about the incident? How did we learn about it? What did we do when we learned about it?*
 
@@ -53,11 +53,11 @@ We capture the details of our incidents to ensure we find the root cause and tak
 
 *What was determined to be the technical/process root cause(s) of the incident? Ask yourself why 5 times to ensure this is the root cause(s).*
 
-*If you’re adamant the error lies with the user ( ‘human factors’), what controls or interface affordances were missing allowing for this?*
+*If you’re adamant the error lies with the user (‘human factors’), what controls or interface affordances were missing allowing for this?*
 
 ## Lessons Learned
 
-*What did we learn from this incident?  How did it go well, what could have gone better and where did luck play a role?  Going through this exercise can help identify action items.*
+*What did we learn from this incident? How did it go well, what could have gone better and where did luck play a role? Going through this exercise can help identify action items.*
 
 ### What went well
 
@@ -76,7 +76,7 @@ We capture the details of our incidents to ensure we find the root cause and tak
 
 ## Action Items:
 
-*What should we do now to prevent a future incident like this one?  What can we do to reduce the impact of any of the future incidents?*
+*What should we do now to prevent a future incident like this one? What can we do to reduce the impact of any of the future incidents?*
 
 *Think about: How were we made aware of the issue? Were the right people notified? Could we have known sooner? Did we have information at our fingertips to resolve the problem? Did we have humans doing work computers would do better? Did we get lucky, could it have been worse?*
 
@@ -98,12 +98,4 @@ We capture the details of our incidents to ensure we find the root cause and tak
 |-|-|-|-|-|-|
 Investigate in more detail the root causes of this incident to create a robust incident report and action items.| Investigate| | |P0|
 Implement immediate actions to address [the issue].|Mitigate| | | P0
- | | | | | |
- | | | | | |
- | | | | | |
- | | | | | |
- | | | | | |
- | | | | | |
- | | | | | |
- | | | | | |
  | | | | | |
