@@ -4,7 +4,7 @@ Whenever an employee at CDS thinks that something is wrong, they can trigger an 
 
 They do this by typing `/incident {what went wrong}` and hitting enter in Slack.
 
-This triggers our SRE-bot to perform the following actions:
+This triggers our [SRE-bot](https://github.com/cds-snc/sre-bot) to perform the following actions:
 
 1. Create a new slack channel with the title **#incident-{date}-{what went wrong}**;
 1. Start a new persistent video chat Google Meet;
@@ -38,7 +38,7 @@ Once the immediate emergency is resolved, we meet to review the incident.
 
 During the blameless postmortem, we review the incident document where we took notes during the incident.
 
-**You can find our template here:** [Product Incident Report Template.]()
+**You can find our template here: [Product Incident Report Template](product_incident_report_template.md).**
 
 We start at the top and work our way down. The format of the document and what is captured in it also guides us in discussing the incident in a logical manner.
 
