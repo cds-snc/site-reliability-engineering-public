@@ -6,13 +6,13 @@ They do this by typing `/incident {what went wrong}` and hitting enter in Slack.
 
 This triggers our SRE-bot to perform the following actions:
 
-1. Create a new slack channel with the title #incident-{date}-{what went wrong};
+1. Create a new slack channel with the title **#incident-{date}-{what went wrong}**;
 1. Start a new persistent video chat Google Meet;
 1. Open a new Google Doc using our incident management template, found in our incident repository in Google Drive;
 1. Share links to the video chat and document in the new slack channel;
 1. Add an entry into our incident tracking spreadsheet;
 1. Assign the person who opened the incident as **Incident Commander (IC)** and as the **Operations Lead (OL)**; and
-1. Post a message in our #incident-sre channel.
+1. Post a message in our **#incident-sre** channel.
 
 ## Fixing what’s wrong
 
