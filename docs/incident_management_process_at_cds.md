@@ -16,7 +16,7 @@ This triggers our SRE-bot to perform the following actions:
 
 ## Fixing what’s wrong
 
->“Fast, frequent, and safe deployments are the hallmark of great software operations. Why? Because these changes are easier to reason about, go wrong less often, and grant engineering teams energy and momentum.”
+>“Fast, frequent, and safe deployments are the hallmark of great software operations. Why? Because these changes are easier to reason about, go wrong less often, and grant engineering teams energy and momentum.”  
 *Source: https://increment.com/reliability/high-performing-team-trust/*
 
 Typically, the IC will immediately assign the OL role, contact comms, and contact people who need to be a part of resolving this incident.
@@ -31,7 +31,7 @@ Because we have automated the checks, tests, and deployments of our systems, we 
 
 ## Blameless Postmortem
 
-> “Feedback occurs when outputs of a system are routed back as inputs as part of a chain of cause-and-effect that forms a circuit or loop.”
+> “Feedback occurs when outputs of a system are routed back as inputs as part of a chain of cause-and-effect that forms a circuit or loop.”  
 *Source: https://en.wikipedia.org/wiki/Feedback*
 
 Once the immediate emergency is resolved, we meet to review the incident.
