@@ -54,7 +54,7 @@ We review the incident for the following things:
 
 The action items out of this incident get added to the backlogs of the teams that own them, and are then prioritized and worked on.
 
-Not everything is equally important and has to be fixed right away.Rotating a key that can only be compromised if they have access to our servers is important but it can wait for a sustainable fix to be put in place.Whereas a key that can be compromised from the internet can't wait and needs to be rotated right away, regardless of whether there is an easy way to change it or not.
+Not everything is equally important and has to be fixed right away. Rotating a key that can only be compromised if they have access to our servers is important but it can wait for a sustainable fix to be put in place. Whereas a key that can be compromised from the internet can't wait and needs to be rotated right away, regardless of whether there is an easy way to change it or not.
 
 The blameless postmortem closes the feedback loop on the incident and ensures that this incident is less likely to happen again in the future, and that we will be better prepared if it – or something similar – happens again.
 
