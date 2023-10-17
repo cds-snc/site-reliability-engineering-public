@@ -20,7 +20,6 @@
 - Scan files - https://github.com/cds-snc/scan-files
 - Scan websites - https://github.com/cds-snc/scan-websites
 - Share secrets securely - https://github.com/cds-snc/secret
-- Share files securely - https://github.com/cds-snc/share-files-securely
 
 ## GitHub
 
