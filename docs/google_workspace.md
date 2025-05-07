@@ -1,5 +1,4 @@
 # Google Workspace Policies & Configuration
-## Best Practices for Organizations
 
 ---
 
